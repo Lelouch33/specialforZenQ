@@ -8,7 +8,7 @@ MLNode Docker image for Gonka Network, optimized for B300 GPU.
 - PyTorch 2.9.0 with CUDA 12.9 support
 - vLLM 0.13.0
 - Python 3.12
-- B300 GPU architecture support (10.3a)
+-  GPU architecture support (10.3a)
 
 ## Quick Start
 
@@ -64,7 +64,7 @@ docker push ghcr.io/Lelouch33/specialforZenQ:latest
 
 | Variable | Default | Description |
 |----------|---------|-------------|
-| `TORCH_CUDA_ARCH_LIST` | `10.3a` | CUDA architecture for B300 |
+| `TORCH_CUDA_ARCH_LIST` | `10.3a` | CUDA architecture for  |
 | `CUDA_HOME` | `/usr/local/cuda-13.0` | CUDA installation path |
 | `HF_HOME` | `/opt/hf-cache` | HuggingFace cache |
 
