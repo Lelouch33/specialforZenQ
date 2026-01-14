@@ -1,6 +1,5 @@
 # specialforZenQ
 
-MLNode Docker image for Gonka Network, optimized for B300 GPU.
 
 ## Features
 
