@@ -7,8 +7,6 @@
 - PyTorch 2.9.0 with CUDA 12.9 support
 - vLLM 0.13.0
 - Python 3.12
--  GPU architecture support (10.3a)
-
 ## Quick Start
 
 ### 1. Copy Gonka Packages
